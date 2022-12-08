@@ -1,7 +1,5 @@
 provider "aws" {
     region = "us-east-1"
-    access_key =  "AKIAUQDIWPF7ULM43ADQ" 
-    secret_key = "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"
 }
 
 variable "subnet_cidr_block" {
